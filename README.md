@@ -1,2 +1,2 @@
 # Repository-Test
-test some feature
+test some features
